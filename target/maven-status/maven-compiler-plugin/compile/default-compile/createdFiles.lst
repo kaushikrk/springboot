@@ -1,0 +1,5 @@
+com\example\actorsdirectory\dao\ActorRepository.class
+com\example\actorsdirectory\ActorsdirectoryApplication.class
+com\example\actorsdirectory\service\ActorService.class
+com\example\actorsdirectory\controller\ActorController.class
+com\example\actorsdirectory\model\Actor.class
